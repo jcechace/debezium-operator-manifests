@@ -9,4 +9,12 @@ entries:
     urls:
     - https://github.com/jcechace/debezium-operator-manifests/releases/download/debezium-operator-2.5.1-final/debezium-operator-2.5.1-final.tgz
     version: 2.5.1-final
-generated: "2024-02-08T12:58:33.801381227Z"
+  - apiVersion: v2
+    appVersion: 2.5.1-final
+    created: "2024-02-08T14:32:48.969812164Z"
+    digest: 5918e0ca39527c90dfe5cfdd66fbd7fc7e372e67f35390829cc23fad3c87b1ed
+    name: debezium-operator
+    urls:
+    - https://github.com/jcechace/debezium-operator-manifests/releases/download/debezium-operator-2.5.1-final/debezium-operator-2.5.1-final.tgz
+    version: 2.5.1-final
+generated: "2024-02-08T14:32:48.969827492Z"
