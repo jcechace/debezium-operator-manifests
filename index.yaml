@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  debezium-operator:
+  - apiVersion: v2
+    appVersion: 2.5.1-final
+    created: "2024-02-08T12:58:33.801332065Z"
+    digest: 8914e716d5807b60846599b3d85fd43604edc18fcaa2af5884898cf2618521fe
+    name: debezium-operator
+    urls:
+    - https://github.com/jcechace/debezium-operator-manifests/releases/download/debezium-operator-2.5.1-final/debezium-operator-2.5.1-final.tgz
+    version: 2.5.1-final
+generated: "2024-02-08T12:58:33.801381227Z"
